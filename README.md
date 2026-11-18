@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Shravya Kothakonda 👋
+About Me
+Pharm.D.
+M.S. Healthcare Informatics Candidate
+Interested in Clinical Informatics, Healthcare Analytics, Health IT, and AI in Healthcare
+Technical Skills
+SQL
+Power BI
+Excel
+Tableau
+Healthcare Informatics
+HL7 & FHIR
+EHR Systems
+Featured Projects
+Healthcare Patient Analytics Dashboard
+Power BI dashboard analyzing 55,500 patient records.
 
-<!--
-**shravyakothakonda/shravyakothakonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Healthcare Interoperability Using FHIR
+Case study demonstrating data exchange between Epic and Cerner.
 
-Here are some ideas to get you started:
+AI-Powered Hospital Readmission Reduction
+Healthcare AI case study exploring predictive analytics for readmission prevention.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Career Goal
+To contribute to healthcare innovation through data analytics, clinical informatics, interoperability, and AI-driven healthcare solutions.
