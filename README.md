@@ -31,6 +31,6 @@ Career Goals
 To contribute to healthcare innovation through clinical informatics, healthcare analytics, interoperability, and AI-driven healthcare solutions.
 
 Connect With Me
-LinkedIn: www.linkedin.com/in/dr-shravya-kothakonda
+LinkedIn: https://www.linkedin.com/in/dr-shravya-kothakonda-47762924a
 
 GitHub: github.com/shravyakothakonda
