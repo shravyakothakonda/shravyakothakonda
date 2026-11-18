@@ -1,8 +1,13 @@
 Hi, I'm Shravya Kothakonda 👋
 About Me
-Pharm.D.
-M.S. Healthcare Informatics Candidate
-Interested in Clinical Informatics, Healthcare Analytics, Health IT, and AI in Healthcare
+🎓 Doctor of Pharmacy (Pharm.D.)
+
+🎓 M.S. Healthcare Informatics Candidate
+
+📊 Interested in Healthcare Analytics, Clinical Informatics, Health IT, and AI in Healthcare
+
+📍 Cincinnati, Ohio
+
 Technical Skills
 SQL
 Power BI
@@ -10,16 +15,22 @@ Excel
 Tableau
 Healthcare Informatics
 HL7 & FHIR
-EHR Systems
+Electronic Health Records (EHR)
+Healthcare Data Analysis
 Featured Projects
-Healthcare Patient Analytics Dashboard
-Power BI dashboard analyzing 55,500 patient records.
+Healthcare Analytics Portfolio
+Healthcare analytics and data visualization projects using healthcare datasets and Power BI.
 
 Healthcare Interoperability Using FHIR
-Case study demonstrating data exchange between Epic and Cerner.
+Case study demonstrating healthcare data exchange between Epic and Cerner using FHIR standards.
 
 AI-Powered Hospital Readmission Reduction
-Healthcare AI case study exploring predictive analytics for readmission prevention.
+AI in Healthcare project exploring predictive analytics and patient outcome improvement.
 
-Career Goal
-To contribute to healthcare innovation through data analytics, clinical informatics, interoperability, and AI-driven healthcare solutions.
+Career Goals
+To contribute to healthcare innovation through clinical informatics, healthcare analytics, interoperability, and AI-driven healthcare solutions.
+
+Connect With Me
+LinkedIn: www.linkedin.com/in/dr-shravya-kothakonda
+
+GitHub: github.com/shravyakothakonda
